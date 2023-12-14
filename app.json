@@ -15,22 +15,21 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.jlbabon12.dentalclinicmobilefrontend"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.jlbabon12.dentalclinicmobilefrontend"
+      "package": "com.kineto.dentalclinicmobilefrontend"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "3c331652-8ae4-41b7-86df-0a9c3ddfd852"
+        "projectId": "b0cb86eb-1906-4f38-924e-5b699157cc44"
       }
     }
   }
